@@ -16,7 +16,7 @@ map2.on("load", function () {
       type: "circle",
       source: {
         type: "geojson",
-        data: "data/citibike_2021_start.geojson",
+        data: "data/2021_start.geojson",
       },
       paint: {
         "circle-radius": [
