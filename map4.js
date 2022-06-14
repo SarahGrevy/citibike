@@ -26,7 +26,7 @@ map4.on("load", function () {
             10, 2,
             15000, 10
         ],
-        "circle-color": "orange",
+        "circle-color": "red",
         "circle-stroke-color": "#000000",
         "circle-opacity": 0.5,
       },

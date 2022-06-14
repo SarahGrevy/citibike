@@ -5,7 +5,7 @@ var map3 = new mapboxgl.Map({
     zoom: 10.5,
     maxZoom: 14,
     minZoom: 10.5,
-    center: [-73.84, 40.755],
+    center: [-73.978016, 40.768246],
     maxBounds: [[-74.9, 40.9], [-73.3, 40.6]]
 });
 
@@ -26,7 +26,7 @@ map3.on("load", function () {
             10, 2,
             15000, 10
         ],
-        "circle-color": "purple",
+        "circle-color": "blue",
         "circle-stroke-color": "#000000",
         "circle-opacity": 0.5,
       },
